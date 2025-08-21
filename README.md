@@ -33,7 +33,3 @@ nextjs,nodejs,express,threejs,react,mongodb
 ## Latest Blog Posts
 
 Currently, I don't have any blog posts to share, but I'm looking forward to writing about my experiences and learnings in the tech world!
-
-## Connect with Me
-
-{"facebook":"https://www.facebook.com/quang.lee.9406417/"}
